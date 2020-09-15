@@ -4,6 +4,8 @@ While the original example offers both Maven and Gradle the idea with this demo 
 
 Run locally with `gradlew bootRun`
 
+ghjgf
+
 Test via http://localhost:8080/greeting
 
 Health check at http://localhost:8080/actuator/health
